@@ -18,7 +18,7 @@ namespace Tyuiu.SorokinAD.Sprint2.Task3.V11
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Вложенные операторы if - else                                     *");
             Console.WriteLine("* Задание #3                                                              *");
-            Console.WriteLine("* Вариант #14                                                             *");
+            Console.WriteLine("* Вариант #11                                                             *");
             Console.WriteLine("* Выполнил Сорокин А. Д. | ИИПб-23-2                                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");

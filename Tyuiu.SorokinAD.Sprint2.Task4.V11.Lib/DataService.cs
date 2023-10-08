@@ -18,4 +18,3 @@ namespace Tyuiu.SorokinAD.Sprint2.Task4.V11.Lib
         }
     }
 }
-4
